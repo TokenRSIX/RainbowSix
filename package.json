@@ -15,5 +15,8 @@
   "dependencies": {
     "alchemy-sdk": "^2.8.3",
     "dotenv": "^16.0.3"
+  },
+  "directories": {
+    "test": "test"
   }
 }
