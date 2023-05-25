@@ -1,6 +1,28 @@
-// contracts/RainbowSix.sol
+/*
+
+
+
+
+contracts/RainbowSix.sol : 
+
+
+    
+ 
+                       - INFORMATION Token RainbowSix (RSIX) - 
+
+        
+            *  https://www.rainbowsix.biz/
+            *  Email:    TokenRainbowSix@gmail.com
+            *  Telegram: https://www.t.me/TokenRinbowSix
+           
+*/
+
+
+
+
+
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.16;
+pragma solidity 0.8.17;
 
 interface IERC20 {
   function totalSupply() external view returns (uint256);
