@@ -2,7 +2,7 @@
 import { Network, Alchemy } from 'alchemy-sdk';
 
 const settings = {
-    apiKey: "np5MpY5dOH5H7zatH0PtyErHXqBnXPY_",
+    apiKey: "",
     network: Network.ETH_GOERLI,
 };
 
@@ -13,7 +13,7 @@ const latestBlock = alchemy.core.getBlockNumber();
 
 // Get all outbound transfers for a provided address
 alchemy.core
-    .getTokenBalances('0x994b342dd87fc825f66e51ffa3ef71ad818b6893')
+    .getTokenBalances('')
     .then(console.log);
 
 // Get all the NFTs owned by an address
