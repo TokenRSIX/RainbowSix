@@ -7,7 +7,7 @@
     "test": "echo \" specified"
   },
   "author": "RainbowSix <134370409+TokenRSIX@users.noreply.github.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@matterlabs/hardhat-zksync-verify": "^0.1.7",
     "@nomicfoundation/hardhat-toolbox": "^1.0.2",
