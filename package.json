@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \" specified"
   },
   "author": "RainbowSix <134370409+TokenRSIX@users.noreply.github.com>",
   "license": "ISC",
