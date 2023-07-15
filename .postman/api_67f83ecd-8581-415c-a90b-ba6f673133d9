@@ -3,7 +3,7 @@ configVersion = 1.0.0
 type = apiEntityData
 
 [config]
-id = 67f83ecd-8581-415c-a90b-ba6f673133d91
+id = *****
 
 [config.relations]
 
