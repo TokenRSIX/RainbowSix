@@ -8,7 +8,7 @@ RSIX
 Total Supply:
 1,000,000,000 RSIX
 
-WNSITE: 
+WEBSITE: 
 https://www.rainbowsix.biz/
 
 BSC Smart Chain Contract :
