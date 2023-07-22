@@ -23,6 +23,9 @@ https://twitter.com/TokenRainbowSix
 Facebook:
 https://www.facebook.com/CryptoRainbowSix
 
+Reddit:
+https://www.reddit.com/user/TokenRainbowSix
+
 BSC Smart Chain Contract :
 https://bscscan.com/token/0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F
 0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F
