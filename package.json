@@ -12,9 +12,12 @@
     "@matterlabs/hardhat-zksync-verify": "^0.1.7",
     "@nomicfoundation/hardhat-toolbox": "^1.0.2",
     "@nomiclabs/hardhat-etherscan": "^3.1.7",
-    "hardhat": "^2.14.0"
+    "hardhat": "^2.14.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
     "@openzeppelin/contracts": "^4.9.0",
     "alchemy-sdk": "^2.8.3",
     "dotenv": "^16.0.3",
