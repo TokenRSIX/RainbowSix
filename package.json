@@ -21,6 +21,7 @@
     "@openzeppelin/contracts": "^4.9.0",
     "alchemy-sdk": "^2.8.3",
     "dotenv": "^16.0.3",
+    "got": "^13.0.0",
     "your-package-name": "^0.0.0"
   },
   "private": true,
