@@ -9,7 +9,7 @@
         
 
             *  Email:    TokenRainbowSix@gmail.com
-            *  Telegram: https://www.t.me/TokenRinbowSix
+            *  Telegram: https://www.t.me/TokenRSIX
            
 */
 
