@@ -1,7 +1,7 @@
 {
   "name": "rainbowsix",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.",
   "main": "index.js",
   "scripts": {
     "test": "echo \" specified"
@@ -72,5 +72,6 @@
     "minimatch": "3.1.2",
     "brace-expansion": "1.1.11",
     "yargs-parser": "20.2.4"
-  }
+  },
+  "keywords": []
 }
