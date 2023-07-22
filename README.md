@@ -1,6 +1,10 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+WWNSITE: https://www.rainbowsix.biz/
+BSC Smart Chain Contract 
+https://bscscan.com/token/0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F
+
+0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F
 
 Try running some of the following tasks:
 
