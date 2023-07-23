@@ -5,6 +5,12 @@ RainbowSix
 Symbol:
 RSIX
 
+🆒 BSC Smart Chain Contract 🚀
+
+🆒 Buy Tax *->0% ☑️
+
+🆒 Sell Tax *->0%☑️ 
+
 Total Supply:
 1,000,000,000 RSIX
 
