@@ -1,10 +1,10 @@
 {
-  "name": "rainbowsix",
-  "version": "1.0.0",
+  "name": "y",
+  "version": "0.0.1",
   "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \" specified"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "RainbowSix <134370409+TokenRSIX@users.noreply.github.com>",
   "license": "MIT",
