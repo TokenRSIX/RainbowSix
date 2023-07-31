@@ -58,3 +58,13 @@ https://pancakeswap.finance/info/pairs/0x01aa4ac37197916feae5f1d7e794b2ecc2c4213
 
 0x3c69568e5a238b61107747758aefbb91626f3c7a
 https://pancakeswap.finance/info/pairs/0x3c69568e5a238b61107747758aefbb91626f3c7a
+
+🔥 Pools/RSIX-DOGE:🔥
+
+0xf3bbcc4110c1d4bfac264b1eaf3c7e3416c771d6
+https://pancakeswap.finance/info/pairs/0xf3bbcc4110c1d4bfac264b1eaf3c7e3416c771d6
+
+🔥 Pools/RSIX-ELON:🔥
+
+0xe4e80f9cc45daca7b05efa6415f91de469fb3ff6
+https://pancakeswap.finance/info/pairs/0xe4e80f9cc45daca7b05efa6415f91de469fb3ff6
